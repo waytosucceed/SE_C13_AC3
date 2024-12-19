@@ -1,0 +1,167 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "What is the sum of 0.75 and 1.004?",
+      "options": [
+          "1.754",
+          "1.75",
+          "1.759",
+          "None of the above"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q2",
+      "question": "What is the sum of 2.03 and 3.998?",
+      "options": [
+          "6.082",
+          "6.028",
+          "6.02",
+          "6.1"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Calculate 0.007 + 0.100.",
+      "options": [
+          "0.107",
+          "0.017",
+          "0.0107",
+          "0.1071"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q4",
+      "question": "What is the sum of 1.321 and 0.524?",
+      "options": [
+          "1.854",
+          "1.450",
+          "1.458",
+          "1.845"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q5",
+      "question": "What is the sum of 0.7 and 0.06?",
+      "options": [
+          "0.706",
+          "0.176",
+          "0.76",
+          "0.974"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q6",
+      "question": "Subtract 0.9 from 1.01.",
+      "options": [
+          "0.01",
+          "0.09",
+          "0.11",
+          "0.91"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q7",
+      "question": "What is the result of subtracting 7.006 from 10.5?",
+      "options": [
+          "3.5",
+          "3.494",
+          "3.49",
+          "3.4941"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q8",
+      "question": "Subtract 1.005 from 2.1.",
+      "options": [
+          "1.095",
+          "1.0095",
+          "1.0905",
+          "None of the above"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q9",
+      "question": "What is 5.500 - 0.455?",
+      "options": [
+          "5.0405",
+          "5.054",
+          "5.045",
+          "None of the above"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q10",
+      "question": "What results from subtracting 0.050 from 0.123?",
+      "options": [
+          "0.0703",
+          "0.073",
+          "0.072",
+          "0.07"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q11",
+      "question": "John bought a coffee for $4.25 and a sandwich for $5.75. How much did he spend?",
+      "options": [
+          "$10.01",
+          "$9.50",
+          "$10.50",
+          "$10.00"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q12",
+      "question": "If a car’s fuel tank is filled with 12.5 gallons and it uses 9.3 gallons after a trip, how much fuel is left?",
+      "options": [
+          "3.2 gallons",
+          "3.3 gallons",
+          "3.1 gallons",
+          "3.0 gallons"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q13",
+      "question": "Sara purchased a book for $7.99 and a magazine for $2.99. What is the total cost?",
+      "options": [
+          "$11.00",
+          "$10.98",
+          "$11.98",
+          "$10.99"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q14",
+      "question": "A tank has 15.6 liters of water, and 4.6 liters are removed. How much water is left?",
+      "options": [
+          "11.2 liters",
+          "11.0 liters",
+          "10 liters",
+          "11.1 liters"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q15",
+      "question": "Melissa drove 35.6 miles on Monday and 29.4 miles on Tuesday. What is the total distance she drove over these two days?",
+      "options": [
+          "65.02 miles",
+          "64 miles",
+          "65.0 miles",
+          "64.0 miles"
+      ],
+      "correct": 2
+  }
+]
